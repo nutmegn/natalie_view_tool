@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+NatalieViewTool::Renderer.copyright 'Natalie Smiley', 'All rights reserved'
+```
 
 ## Development
 
